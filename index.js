@@ -28,7 +28,7 @@ function stringMaker(x,y,z)
 
 function startTimer()
 {
-    tyme = setInterval(showTimer,100);
+    tyme = setInterval(showTimer,10);
 }
 function stopTimer()
 {
